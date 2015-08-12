@@ -23,4 +23,4 @@
                  max-count)))
 ```
 
-![alt text]http://mitpress.mit.edu/sicp/full-text/book/ch1-Z-G-10.gif)
+![alt text](http://mitpress.mit.edu/sicp/full-text/book/ch1-Z-G-10.gif)
